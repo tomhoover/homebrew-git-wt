@@ -1,8 +1,8 @@
 class GitWt < Formula
   desc "Lightweight git worktree wrapper with consistent naming convention"
   homepage "https://github.com/tomhoover/git-wt"
-  url "https://github.com/tomhoover/git-wt/archive/refs/tags/v0.23.0.tar.gz"
-  sha256 "15ea9c4c19280b446b3e76112e69edcd2a0aad4b6ef2583e0dc50891ff03b1b2"
+  url "https://github.com/tomhoover/git-wt/archive/refs/tags/v0.23.1.tar.gz"
+  sha256 "4d48dd7a3f28ef8361bcb6ee284fbac19f3dcf7f221b00c88e56511b2a4ac9eb"
   license "MIT"
 
   livecheck do
